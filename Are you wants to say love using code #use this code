@@ -16,7 +16,7 @@ turtle.color("pink")
 turtle.pendown()
 turtle.forward(25)
 turtle.penup()
-turtle.write("sufiyan")
+turtle.write("lakshmi")#give any name which you want
 end_fill()
 
 
